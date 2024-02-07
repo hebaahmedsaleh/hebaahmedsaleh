@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hebaahmedsaleh
 - 👀 I’m interested in creating logic and drawing beautiful ui
 - 🌱 I’m currently learning nodejs
-- 💞️ I’m looking to collaborate on making fainating, accessible, scalable and live web applications. 
+- 💞️ I’m looking to collaborate on making fasinating, accessible, scalable and live web applications. 
 - 📫 How to reach me contact me on my linkedin
 
 <!---
